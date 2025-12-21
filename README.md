@@ -5,6 +5,8 @@ Currently learning and building with JavaScript and Node.js (Express), focusing 
 
 I’ve worked on small-to-medium web projects, including a web-based event registration system, handling form logic, data processing, and basic API design. I’m interested in backend systems, application logic, and building maintainable solutions, and I’m continuously improving through real-world practice.
 </p>
+<li>Email : <a href="mailto:andrianow817@gmail.com">andrianow817@gmail.com</a></li>
+<li>LinkedIn : <a href="https://id.linkedin.com/in/andriano-wijaya-4a401a218/">Andriano Wijaya</a></li>
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
@@ -14,6 +16,7 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
+<div style="display:flex; align-items:center;">
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
 <img width="30" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg">
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png">
@@ -22,6 +25,7 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 <img width="30" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg">
 <img width="30" src="https://cdn3.emoji.gg/emojis/43685-kotlin-old.png" >
 <img width="30" src="https://cdn3.emoji.gg/emojis/4092-linux.png" alt="linux">
+</div>
 <br/>
 <br/>
 
@@ -43,24 +47,6 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 </p>
 </details>
 <br>
-
-<h2>
-  𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
-  <a target="_blank">
-    <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
-  </a>
-</h2>
-
-<p align="start">
-  <br>
-  <a href="https://id.linkedin.com/in/andriano-wijaya-4a401a218/" target="_blank">
-    <code><img width="51" src="https://cdn3.emoji.gg/emojis/65623-linkedin.png"/></code>
-  </a>
-  <a href="mailto: andrianow817@gmail.com" target="_blank">
-    <code><img width="55" src="https://cdn3.emoji.gg/emojis/58714-old-gmail-logo.png"/></code>
-  </a>
-</p>
-<br/>
 
 #
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://cdn3.emoji.gg/emojis/959310-nono.gif"></h3>
