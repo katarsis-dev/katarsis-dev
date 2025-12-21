@@ -1,7 +1,7 @@
 <h1> 𝗛𝗶! 𝗜'𝗺 Andriano.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <p>Information Systems undergraduate with an interest in backend development and practical web engineering.
 
-Currently learning and building with JavaScript and Node.js (Express), focusing on core backend concepts such as REST APIs, HTTP methods, middleware, and basic data handling. I prefer learning through hands-on projects rather than purely theoretical study(I can adapt if necessary).
+Currently Learning with JavaScript and Node.js (Express) Deeply, focusing on core backend concepts such as REST APIs, SQL, middleware, and structured data handling. I prefer learning by designing, breaking, and refining real projects rather than relying solely on theory.(I can adapt if necessary).
 
 I’ve worked on small-to-medium web projects, including a web-based event registration system, handling form logic, data processing, and basic API design. I’m interested in backend systems, application logic, and building maintainable solutions, and I’m continuously improving through real-world practice.
 </p>
