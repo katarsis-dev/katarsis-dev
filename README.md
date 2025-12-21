@@ -1,9 +1,11 @@
 <h1> 𝗛𝗶! 𝗜'𝗺 Andriano.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <p>Information Systems undergraduate with an interest in backend development and practical web engineering.
 
-Currently Learning with JavaScript and Node.js (Express) Deeply, focusing on core backend concepts such as REST APIs, SQL, middleware, and structured data handling. I prefer learning by designing, breaking, and refining real projects rather than relying solely on theory.(I can adapt if necessary).
+Currently building and experimenting with JavaScript and Node.js (Express), focusing on core backend concepts such as REST APIs, HTTP communication, middleware, and structured data handling. I prefer learning by designing, breaking, and refining real projects rather than relying solely on theory.
 
-I’ve worked on small-to-medium web projects, including a web-based event registration system, handling form logic, data processing, and basic API design. I’m interested in backend systems, application logic, and building maintainable solutions, and I’m continuously improving through real-world practice.
+After taking a roughly one-year break from programming, I returned with a more focused and disciplined approach, prioritizing fundamentals and real-world implementation over rushing progress.
+
+I’ve worked on small-to-medium web projects, including a web-based event registration system, handling form logic, data processing, and basic API design. I’m interested in backend systems, application logic, and building maintainable solutions, and I’m continuously improving through hands-on practice.
 </p>
 <ul>
 <li>Email : <a href="mailto:andrianow817@gmail.com">andrianow817@gmail.com</a></li>
@@ -13,7 +15,7 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 <ul>
 <li> 💻 𝖨'𝗆 𝖥ull-Stack Dev </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Deeper about Backend</li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 re-l𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Deeper about Backend</li>
 <li> Planning to go either Web3 / AI path (depends on job market hehehe) </li>
 </ul>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
