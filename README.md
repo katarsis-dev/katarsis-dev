@@ -15,7 +15,7 @@
 <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="ttps://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"></code>
 
 <br/>
 <br/>
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/katarsis-dev" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react&rank_icon=github" alt="LeonardoYz's Stats" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=katarsis-dev&show_icons=true&theme=react&rank_icon=github" alt="Katarsis - Dev Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katarsis-dev&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
