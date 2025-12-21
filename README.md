@@ -1,4 +1,13 @@
 <h1> 𝗛𝗶! 𝗜'𝗺 Andriano.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<p>Information Systems undergraduate with a strong interest in backend development and practical web engineering.
+
+Currently focused on learning and building with JavaScript and Node.js (Express), while strengthening core backend concepts such as REST APIs, HTTP methods, middleware, and basic data handling. I prefer learning by building real projects rather than purely theoretical study(but i can be adapt with it if necessary).
+
+I have experience working on small-to-medium web projects, including a web-based registration system for events, where I handled form logic, data processing, and basic API design. I’m also familiar with integrating frontend and backend workflows, even when working with limited resources or time constraints.
+
+My current interests are backend development, system logic, and understanding how scalable and maintainable systems are designed. I’m still in the learning phase, but I value clarity, realism, and solid fundamentals over shortcuts.
+
+Actively improving my skills through hands-on projects and continuous iteration.</p>
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
