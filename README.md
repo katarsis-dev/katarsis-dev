@@ -1,5 +1,5 @@
 <h1> 𝗛𝗶! 𝗜'𝗺 Andriano.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<p>Information Systems undergraduate with an interest in backend development and practical web engineering.
+<p>Information Systems undergraduate who enjoys working close to system logic, problem-solving, and how applications behave behind the scenes.
 
 Currently building and experimenting with JavaScript and Node.js (Express), focusing on core backend concepts such as REST APIs, HTTP communication, middleware, and structured data handling. I prefer learning by designing, breaking, and refining real projects rather than relying solely on theory.
 
