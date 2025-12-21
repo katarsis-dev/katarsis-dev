@@ -27,10 +27,11 @@
 </summary>
 <br>
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/katarsis-dev" target="_blank">
+        <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katarsis-dev&layout=compact&theme=react" alt="Most Used Languages" />
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=katarsis-dev&show_icons=true&theme=react&rank_icon=github" alt="Katarsis - Dev Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katarsis-dev&layout=compact&theme=react" alt="Most Used Languages" />
+
   </a>
 </p>
 </details>
@@ -43,17 +44,16 @@
   </a>
 </h2>
 
-<p align="center">
+<p align="start">
   <br>
   <a href="https://id.linkedin.com/in/andriano-wijaya-4a401a218/" target="_blank">
-    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://cdn3.emoji.gg/emojis/65623-linkedin.png"/></code>
   </a>
   <a href="mailto: andrianow817@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
+    <code><img width="55" src="https://cdn3.emoji.gg/emojis/58714-old-gmail-logo.png"/></code>
   </a>
 </p>
 <br/>
 
 #
-
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://cdn3.emoji.gg/emojis/959310-nono.gif"></h3>
