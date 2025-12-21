@@ -13,9 +13,8 @@
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
 <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"></code>
 <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"></code>
 
 <br/>
 <br/>
@@ -48,10 +47,10 @@
 <p align="center">
   <br>
   <a href="https://id.linkedin.com/in/andriano-wijaya-4a401a218/" target="_blank">
-    <code><img width="51" src="https://i.sstatic.net/gVE0j.png"/></code>
+    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: andrianow817@gmail.com" target="_blank">
-    <code><img width="55" src="https://i.sstatic.net/tskMh.png"/></code>
+    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
