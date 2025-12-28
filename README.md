@@ -51,9 +51,9 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 <summary>
   <span>"I Use Arch Btw"</span>
 </summary>
-<p align="start">
-  ![my pc]("resources/my-fastfetch.gif")
-</p>
+  <div align="start">
+  <img src="resources/my-fastfetch.gif" width="600" alt="Fastfetch Animation" />
+</div>
 </details>
 
 #
