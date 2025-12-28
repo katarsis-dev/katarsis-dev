@@ -26,6 +26,9 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 <img width="30" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg">
 <img width="30" src="https://cdn3.emoji.gg/emojis/43685-kotlin-old.png" >
 <img width="30" src="https://cdn3.emoji.gg/emojis/4092-linux.png" alt="linux">
+<img width="30" src="https://cdn3.emoji.gg/emojis/64443-python.png" alt="python">
+<img width="30" src="https://cdn3.emoji.gg/emojis/3058-golang.png" alt="golang">
+  
 </div>
 
 #
