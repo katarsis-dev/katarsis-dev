@@ -45,5 +45,16 @@ I’ve worked on small-to-medium web projects, including a web-based event regis
 </p>
 </details>
 
+
+
+<details open="">
+<summary>
+  <span>"I Use Arch Btw"</span>
+</summary>
+<p align="start">
+  ![my pc]("resources/my-fastfetch.gif")
+</p>
+</details>
+
 #
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://cdn3.emoji.gg/emojis/959310-nono.gif"></h3>
